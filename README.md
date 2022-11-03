@@ -1,5 +1,5 @@
-# ipsec-peer-named
-Output file where tunnel ip's are associated with a name
+# ipsec-l2l-named
+Output file where site-to-site tunnel ip's are associated with a name
 
 So i know this script is pretty rudimental in that it does alot of outputting and formatting, but, it works.
 
