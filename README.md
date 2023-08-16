@@ -5,6 +5,9 @@
 The script will log into your firewall that shows your site-to-site vpn tunnels, unfortunately the output alone does not show the business name.
 What this script does then is, it takes the output of the show command, and it goes through the config file of the firewall device and does a bunch of formatting and outputting until you get your desired result.</p>
 
+<p>The report will also be emailed once generated.
+Your tasks are to update the email function, and to provide your asa ip as well as your credentials to run the script.</p>
+
 Again, its rudimental, but works efficiently enough for my needs.
 
 Hope this helps someone out there.
